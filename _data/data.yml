@@ -12,7 +12,7 @@ sidebar:
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: wiki97ap@gmail.com
+  email: orlandoalpe97@gmail.com
   phone: 449-960-93-31
   website: # No agregar http://
   linkedin: Orlando Álvarez Peregrina
@@ -49,7 +49,9 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Computer Systems Engineer and mobile tech enthusiast always looking for new and emerging technologies.
+    I am a Computer Systems Engineer and passionate for mobile technologies. 
+    Always looking to learn new technologies and collaborate with great temas on impactfull proyects.
+
 
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
@@ -93,14 +95,17 @@ skills:
       level: 70%
 
     - name: React Native
-      level: 40%
+      level: 75%
+    
+    - name: Firebase
+      level: 70%
 
     - name: Linux
-      level: 70%
+      level: 80%
 
     - name: HTML & CSS
       level: 90%
 
 # NO MODIFICAR
 footer: >
-  BrightCoders Academy
+  Orlando Álvarez Peregrina
